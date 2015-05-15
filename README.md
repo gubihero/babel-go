@@ -1,5 +1,5 @@
-## Babel
+# Babel
 
-#### A Markov Chain Babbler
+### A Markov Chain Babbler
 
-takes txt files and returns readable but slightly weird excerpts. 
+Takes txt files and returns readable but slightly weird excerpts. 
